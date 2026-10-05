@@ -1,0 +1,6 @@
+{
+  "name": "FUNraise AI - Fun & Smart Profit Maximizer",
+  "description": "AI fundraising strategist and flyer generator for schools, youth clubs, student councils, sports teams, and nonprofits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
